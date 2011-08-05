@@ -15,7 +15,7 @@
 |
 */
 //$dynamic_url = str_replace( '/index.php' , '' , $GLOBALS[_SERVER]['HTTP_REFERER'] );
-$config['base_url']	= 'https://192.168.1.5/openemr/akeso'; 
+$config['base_url']	= 'https://192.168.1.9/openemr/akeso'; 
 
 /*
 |--------------------------------------------------------------------------

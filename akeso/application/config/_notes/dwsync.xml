@@ -6,7 +6,7 @@
 <file name="user_agents.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
 <file name="constants.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
 <file name="autoload.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
-<file name="config.php" server="192.168.1.9//var/www/openemr/" local="129568200970000000" remote="129568200970000000" />
+<file name="config.php" server="192.168.1.9//var/www/openemr/" local="129570600624650024" remote="129570624040000000" />
 <file name="smileys.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
 <file name="mimes.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
 <file name="profiler.php" server="192.168.1.9//var/www/openemr/" local="129568167340000000" remote="129568167340000000" />
